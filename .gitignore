@@ -1,6 +1,7 @@
 .venv
 .env
 .pip-log.txt
+.coverage
 
 *.log
 *.pyc
